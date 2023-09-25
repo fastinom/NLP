@@ -82,7 +82,7 @@ def main():
             print("Error occurred: ", e)
 
 
-    if st.button("Suggested_word"):
+    if st.button("Suggested_words"):
         st.success(seed_text)
 
 
